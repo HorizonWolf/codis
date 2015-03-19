@@ -75,6 +75,11 @@ THE SOFTWARE.
             <version>4.11</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>1.7.10</version>
+        </dependency>
     </dependencies>
     <distributionManagement>
         <snapshotRepository>
